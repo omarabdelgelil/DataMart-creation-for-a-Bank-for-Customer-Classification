@@ -5,4 +5,4 @@ a good client (whom to offer some additional services) and who is a bad client (
 to minimize the bank loses). Fortunately, the bank stores data about their clients, the accounts
 (transactions within several months), the loans already granted, the credit cards issued. The bank
 managers hope to improve their understanding of customers and seek specific actions to improve
-services. A mere application of a discovery tool will not be convincing for them.
+services. A mere application of a discovery tool will not be convincing for them.;
